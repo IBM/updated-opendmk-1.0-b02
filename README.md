@@ -12,9 +12,6 @@ The original code is released under and governed by either the GNU General Publi
 the Common Development and Distribution License (CDDL), and so this project chooses to run under the same
 [dual license](https://opendmk.java.net/legal_notices/licenses.txt).
 
-The acsp-opendmk edition has modified to use the IBM CCC internal GitHub repository and artifactory, and bound
-to the git repository <https://github.ibm.com/cccc/acsp-opendmk>.
-
 ## JMX Remote Optional with Messaging Protocol
 
 An optional part of the JMX Remote API, which is not included in the Java SE platform, is a generic connector. This connector can be configured by adding pluggable modules to define the following:
