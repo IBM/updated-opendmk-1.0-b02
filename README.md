@@ -32,5 +32,5 @@ The version hosted suffered from several issues that have been fixed. It is used
 
 You can find a clone of the original Open DMK project here <https://github.com/betfair/opendmk> since the original repository opendmk.java.net no longer exists.
 
-Note! This project (acsp-opendmk) is a local clone of the above mentioned <https://github.com/betfair/opendmk> project, to be able to locally debug the code for troubleshooting. JE 2021-09-27
+Note! This project  is a local clone of the above mentioned <https://github.com/betfair/opendmk> project, to be able to locally debug the code for troubleshooting.
 
